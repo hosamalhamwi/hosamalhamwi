@@ -1,7 +1,7 @@
 # Hi There, I'm Hosam!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hosamalhamwi&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamalhamwi&layout=compact" />
+<img align="left" width="47%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamalhamwi&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 
 <!-- Programming languages -->
