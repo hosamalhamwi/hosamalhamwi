@@ -1,5 +1,3 @@
-# Hi there, I'm Hosam 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=38BCF7&width=435&lines=Senior+Full+Stack+Engineer;TypeScript+%7C+JavaScript+Expert;React+%7C+Next.js+Specialist;Cloud+%7C+DevOps+Enthusiast)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
@@ -15,21 +13,9 @@
 ---
 
 ## 🌱 Currently Learning:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=38BCF7&width=435&lines=Cloud+Services+%7C+AWS+%7C+Azure;DevOps+%7C+CI/CD;Serverless+Architecture)](https://git.io/typing-svg)
-
----
-
-## 📈 GitHub Stats
-
-![Hosam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOSAMALHAMWI&show_icons=true&hide_title=true&count_private=true&hide=prs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=38BCF7&width=435&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+Deep+Learning;AI+Tools+%7C+Automation;Data+Science+%7C+Python)](https://git.io/typing-svg)
 
 ---
 
 ## 🔗 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/hosamalhamwi) 
-- [Twitter](#)
-- [Personal Portfolio](#)
-
----
-
-<p align="center">Made with ❤️ by Hosam</p>
+- [LinkedIn](https://www.linkedin.com/in/hosam-alhamwi/)
